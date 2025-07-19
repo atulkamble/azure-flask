@@ -1,5 +1,6 @@
 ```
 cd
+cd Downloads
 git --version
 git clone https://github.com/atulkamble/azure-flask.git
 cd azure-flask
